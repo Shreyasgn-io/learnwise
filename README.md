@@ -147,6 +147,11 @@ Please make sure to update tests as appropriate and adhere to the existing codin
 ## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 📞 Contact
+Your Name - @your_twitter - email@example.com
+
+Project Link: https://github.com/yourusername/learnwise
+
 ## 🙏 Acknowledgments
 - Next.js for the React framework
 - Clerk for authentication
